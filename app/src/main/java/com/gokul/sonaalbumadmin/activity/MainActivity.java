@@ -1,4 +1,4 @@
-package com.gokul.sonaalbumadmin;
+package com.gokul.sonaalbumadmin.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
@@ -6,6 +6,8 @@ import androidx.cardview.widget.CardView;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+
+import com.gokul.sonaalbumadmin.R;
 
 public class MainActivity extends AppCompatActivity {
 

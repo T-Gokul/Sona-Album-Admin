@@ -7,7 +7,7 @@
     android:background="@color/colorGray"
     android:padding="10dp"
     android:fitsSystemWindows="true"
-    tools:context=".AddImageActivity">
+    tools:context=".activity.AddImageActivity">
 
     <EditText
         android:layout_width="match_parent"

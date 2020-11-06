@@ -1,4 +1,4 @@
-package com.gokul.sonaalbumadmin;
+package com.gokul.sonaalbumadmin.activity;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -8,10 +8,8 @@ import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 
 import android.Manifest;
-import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
-import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageManager;
@@ -27,6 +25,7 @@ import android.widget.MediaController;
 import android.widget.Toast;
 import android.widget.VideoView;
 
+import com.gokul.sonaalbumadmin.R;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;

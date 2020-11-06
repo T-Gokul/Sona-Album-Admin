@@ -1,4 +1,4 @@
-package com.gokul.sonaalbumadmin;
+package com.gokul.sonaalbumadmin.model;
 
 public class UploadImage {
     private String name;
